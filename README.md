@@ -1,3 +1,3 @@
 ### The ritual website
 # Coming soon...
-[visit site](dormeneur.github.io)
+[visit site](https://dormeneur.github.io)
