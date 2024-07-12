@@ -1,2 +1,2 @@
-# dormeneur.github.io
-Aditya Bharti
+# The ritual website
+
