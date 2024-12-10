@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This site serves as a hub to showcase my skills, projects, and experiences in technology, development, and design.
 
-🌐 Live Site: [dormeneur.github.io](dormeneur.github.io)
+🌐 Live Site: [dormeneur.github.io](https://dormeneur.github.io)
 
 ---
 
