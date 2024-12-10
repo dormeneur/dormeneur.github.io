@@ -1,4 +1,9 @@
 /* General Styles */
+
+html {
+    scroll-padding-top: 70px; /* Adjust based on your nav bar's height */
+}
+
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
